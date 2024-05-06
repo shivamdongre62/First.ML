@@ -11,7 +11,6 @@ namespace First.ML
         public static void Main(string[] args)
         {
 
-
         }
     }
 }
